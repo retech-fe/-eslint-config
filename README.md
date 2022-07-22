@@ -1,1 +1,1 @@
-# -eslint-config
+# eslint-config
